@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(24, 24, 27);
+    color: #d6d6d6;
+
+}
+
+.info {
+    background-color: rgb(15, 15, 15);
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+.hero-txt {
+    font-size: 3vh;
+    color: #d4d4d4;
+    margin: 0;
+}
+
+.heading, .details{
+    padding-top: 10px;
+    text-align: center;
+}
+
+
+.container{
+    padding: 20px 0;
+}
+
+.personal-info{
+   padding-bottom: 1px;
+}
+
+.fas, .fab {
+    color: #777777;
+    text-decoration: none;
+    font-weight: lighter;
+}
+
+.fas:hover, .fab:hover {
+    color: #8e50d5;
+}
+
+
+
+.card {
+    float: none;
+    box-shadow: rgb(0 0 0 / 73%) 7px 50px 50px 7px;
+    max-width: 250px;
+    border-style: none;
+    background-image: linear-gradient(to right top, #500f9b, #6022a9, #6f32b8, #7f41c6, #8e50d5);
+
+}
+
+a{
+    color: #8e50d5;
+    text-decoration: underline;
+}
+
+hr {
+    
+    width: 90%;
+    justify-self: center;
+}
+
+.name {
+    font-weight: bold;
+    margin-bottom: -5px;
+  
+}
+
+.email, .phone, .location {
+    margin-bottom: 2px;
+    margin-right: 10px;
+    font-style: italic;
+    font-size: .8em
+}
+
+.icons{
+    background-color: aliceblue;
+}
+
